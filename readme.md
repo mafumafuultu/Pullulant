@@ -1,6 +1,6 @@
 # Pullulant
 
-![Pullulant](./pullulant_logo.svg)
+![Pullulant](./logo.png)
 
 *A short description of the keyboard/project*
 

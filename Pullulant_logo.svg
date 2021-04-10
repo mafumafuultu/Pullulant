@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    id="svg8"
    version="1.1"
-   viewBox="0 0 43.656254 37.041664"
-   height="37.041664mm"
-   width="43.656254mm">
+   viewBox="0 0 800 599.99999"
+   height="600mm"
+   width="800mm">
   <defs
      id="defs2" />
   <metadata
@@ -25,49 +25,49 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-27.78125,-70.114586)"
+     transform="translate(-27.78125,-114.03545)"
      id="layer1">
     <rect
-       y="70.114586"
+       y="114.03545"
        x="27.78125"
-       height="209.81532"
-       width="247.28238"
+       height="600"
+       width="800"
        id="rect918"
-       style="fill:#55a44e;fill-opacity:1;stroke:none;stroke-width:43.4418;stroke-opacity:0.380282" />
+       style="fill:#55a44e;fill-opacity:1;stroke:none;stroke-width:132.133;stroke-opacity:0.380282" />
     <text
-       x="93.531204"
-       y="232.23097"
+       x="240.49339"
+       y="594.58832"
        id="text835"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.724px;line-height:1.25;font-family:Gambetta;-inkscape-font-specification:'Gambetta, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ede9a3;fill-opacity:1;stroke-width:3.15265"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125.279px;line-height:1.25;font-family:Gambetta;-inkscape-font-specification:'Gambetta, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ede9a3;fill-opacity:1;stroke-width:10.1994"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.724px;font-family:Gambetta;-inkscape-font-specification:'Gambetta, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ede9a3;fill-opacity:1;stroke-width:3.15265"
-         y="232.23097"
-         x="93.531204"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125.279px;font-family:Gambetta;-inkscape-font-specification:'Gambetta, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ede9a3;fill-opacity:1;stroke-width:10.1994"
+         y="594.58832"
+         x="240.49339"
          id="tspan833">Pullulant</tspan></text>
     <path
-       d="m 169.77249,122.5801 c -13.25055,-0.0691 -25.69551,1.24728 -35.79858,3.77305 -25.30633,6.32657 -40.841512,20.65101 -49.576483,52.01473 30.493393,-29.18931 65.573483,-33.3193 115.732133,-33.3193 -59.94724,7.49341 -87.97628,9.33647 -111.643416,40.47838 -23.667136,31.1419 -15.349307,64.42931 -15.349307,64.42931 l 14.986808,-7.49337 c 0,0 -6.043055,-18.26417 -1.773823,-43.78965 34.451558,6.37971 60.901908,6.74295 82.140588,-0.33662 22.48021,-7.49341 69.10619,-45.79464 84.09298,-53.28806 -20.60686,-15.45516 -53.65972,-22.31599 -82.8109,-22.46847 z"
-       style="fill:#ede9a3;fill-opacity:1;stroke:none;stroke-width:1.49868px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 487.14674,239.84933 c -42.86777,-0.22355 -83.1293,4.03516 -115.81442,12.20644 -81.87023,20.46752 -132.12914,66.8095 -160.38824,168.27638 C 309.59532,325.89984 423.0853,312.53862 585.35695,312.53862 391.41758,336.78107 300.73893,342.74367 224.17176,443.49298 147.60461,544.24225 174.51419,651.93261 174.51419,651.93261 l 48.48483,-24.24231 c 0,0 -19.5503,-59.08765 -5.73861,-141.66686 111.45657,20.63943 197.02789,21.81458 265.73858,-1.08903 72.72726,-24.24244 223.57013,-148.15334 272.0549,-172.39581 -66.66664,-50.00004 -173.5982,-72.19598 -267.90715,-72.68927 z"
+       style="fill:#ede9a3;fill-opacity:1;stroke:none;stroke-width:4.84848px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path916" />
     <path
-       d="m 56.543644,131.47098 c -1.4144,6.00843 -2.115607,11.7958 -2.023392,16.64616 0.23099,12.14925 5.112993,20.69714 18.440074,27.93628 -10.069181,-16.89034 -8.282784,-33.24757 -3.047708,-56.01934 -2.854804,27.99782 -4.943461,40.91523 6.72463,54.91029 2.612242,2.63966 5.177385,3.94572 5.177385,3.94572 6.492099,-14.97496 9.985651,-28.54913 8.988308,-38.93027 -1.055668,-10.988 -13.577828,-36.15347 -15.415618,-43.73949 -9.1673,7.74234 -15.731868,22.03208 -18.843622,35.25066 z"
-       style="fill:#ede9a3;fill-opacity:1;stroke:none;stroke-width:0.698143px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 120.83241,268.61282 c -4.57581,19.43828 -6.84434,38.16139 -6.54601,53.85311 0.7473,39.30487 16.5414,66.95873 59.65674,90.37856 -32.57549,-54.64308 -26.79619,-107.56147 -9.85984,-181.23196 -9.23577,90.57764 -15.99293,132.36763 21.7553,177.644 8.45104,8.53974 16.74971,12.76505 16.74971,12.76505 21.00303,-48.4465 32.30526,-92.36121 29.07869,-125.94594 -3.41527,-35.54803 -43.92655,-116.96254 -49.87213,-141.50459 -29.65773,25.04777 -50.89521,71.27748 -60.96227,114.04179 z"
+       style="fill:#ede9a3;fill-opacity:1;stroke:none;stroke-width:2.25861px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path916-0-1" />
     <rect
-       y="238.71619"
-       x="95.221893"
-       height="11.240071"
-       width="164.8549"
+       y="615.56909"
+       x="245.96306"
+       height="36.363514"
+       width="533.33331"
        id="rect1103"
-       style="fill:#ede9a3;fill-opacity:1;stroke:none;stroke-width:7.6795;stroke-opacity:0.380282" />
+       style="fill:#ede9a3;fill-opacity:1;stroke:none;stroke-width:24.8444;stroke-opacity:0.380282" />
     <text
        id="text1101"
-       y="248.92938"
-       x="100.30798"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.7527px;line-height:1.25;font-family:Gambetta;-inkscape-font-specification:'Gambetta, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.733901"
+       y="648.61041"
+       x="262.41742"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:44.4922px;line-height:1.25;font-family:Gambetta;-inkscape-font-specification:'Gambetta, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:2.37429"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.7527px;font-family:Gambetta;-inkscape-font-specification:'Gambetta, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a38353;fill-opacity:1;stroke-width:0.733901"
-         y="248.92938"
-         x="100.30798"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:44.4922px;font-family:Gambetta;-inkscape-font-specification:'Gambetta, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a38353;fill-opacity:1;stroke-width:2.37429"
+         y="648.61041"
+         x="262.41742"
          id="tspan1099">Twitter: @mafumafuultu</tspan></text>
   </g>
 </svg>
